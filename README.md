@@ -19,9 +19,7 @@ The repository is organized as follows:
 
 - **Union 2024 Q3-v2** (September 2, 2024)
   - **File**: `audits/Union 2024 Q3-v2-20240902_111533.pdf`
-  - **Scope**: [Brief description of audit scope]
   - **Auditor**: [Informal Systems](https://informal.systems/)
-  - **Summary**: 
 
 
 This repository serves as a historical record of all security audits performed on the Union protocol. Developers, users, and stakeholders can reference these reports to understand the security posture of the protocol over time.
