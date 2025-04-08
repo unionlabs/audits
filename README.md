@@ -18,8 +18,16 @@ The repository is organized as follows:
 #### Q3 2024
 
 - **Union 2024 Q3-v2** (September 2, 2024)
-  - **File**: `audits/Union 2024 Q3-v2-20240902_111533.pdf`
+  - **File**: [`audits/Union 2024 Q3-v2-20240902_111533.pdf`](<./audits/Union 2024 Q3-v2-20240902_111533.pdf>)
   - **Auditor**: [Informal Systems](https://informal.systems/)
+
+#### Q1 2024
+
+- **Spearbit, ZK components: CometBLS, Galois** (January 29 - February 31, 2024)
+  - **File**: [`audits/Spearbit_Union_ZK_2024_Q1.pdf`](./audits/Spearbit_Union_ZK_2024_Q1.pdf)
+  - **Auditor**:
+    - [CPerezz](https://x.com/CPerezz19)
+    - [Eduard Sanou](https://github.com/ed255)
 
 
 This repository serves as a historical record of all security audits performed on the Union protocol. Developers, users, and stakeholders can reference these reports to understand the security posture of the protocol over time.
