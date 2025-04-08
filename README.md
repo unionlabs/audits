@@ -18,13 +18,13 @@ The repository is organized as follows:
 #### Q3 2024
 
 - **Union 2024 Q3-v2** (September 2, 2024)
-  - **File**: [`audits/Union 2024 Q3-v2-20240902_111533.pdf`](<./audits/Union 2024 Q3-v2-20240902_111533.pdf>)
+  - **File**: [`audits/Union 2024 Q3-v2-20240902_111533.pdf`](./audits/1__Union_2024_Q3-v2-20240902_111533.pdf)
   - **Auditor**: [Informal Systems](https://informal.systems/)
 
 #### Q1 2024
 
 - **Spearbit, ZK components: CometBLS, Galois** (January 29 - February 31, 2024)
-  - **File**: [`audits/Spearbit_Union_ZK_2024_Q1.pdf`](./audits/Spearbit_Union_ZK_2024_Q1.pdf)
+  - **File**: [`audits/Spearbit_Union_ZK_2024_Q1.pdf`](./audits/2__Spearbit_Union_ZK_2024_Q1.pdf)
   - **Auditor**:
     - [CPerezz](https://x.com/CPerezz19)
     - [Eduard Sanou](https://github.com/ed255)
